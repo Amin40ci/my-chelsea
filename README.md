@@ -4,4 +4,4 @@ git add filename.ext
 git add .
 git commit -m 
 git commit -m 
-nice
+nice>2
